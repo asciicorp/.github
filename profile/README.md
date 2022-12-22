@@ -1,8 +1,8 @@
-# ASCII Corporation
+<!-- <img src="https://i.ibb.co/RTXkPTV/ASCII-Logo.png" height="100" width="100"> -->
 
+# ASCII Corporation 
 Welcome to the ASCII Corporation GitHub organization! We are a team of AI and automation experts dedicated to creating best-in-class solutions for B2C companies.
 
-![ASCII Corporation logo](ascii-logo.png)
 
 ## Our Mission
 
@@ -12,9 +12,26 @@ Our mission is to use the power of AI and automation to improve the lives of con
 
 Here are a few of the projects that we are currently working on:
 
-![AI for Customer Service](ai-customer-service.png)
-
-- **AI for Customer Service**: We are developing an AI-powered customer service platform that uses natural language processing and machine learning to understand customer inquiries and provide accurate and timely responses.
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://i.ibb.co/HGMbJcx/image.png" style="height: 100px; width: 100px;">
+    </td>
+    <td>
+      <b>Team and Ticket Management System</b><br>
+      We are building a platform that helps teams manage incoming tickets from different services like Zendesk and Jira without leaving anything behind. The system also helps management maintain a hierarchy among employees and ensures that all tickets are completed to a high standard. We have incorporated AI features to distribute tickets to the best person to handle them.
+    </td>
+  </tr>
+<!--   <tr>
+    <td width="100">
+      <img src="ai-customer-service.png" height="100" width="100">
+    </td>
+    <td>
+      <b>AI for Customer Service</b><br>
+      We are developing an AI-powered customer service platform that uses natural language processing and machine learning to understand customer inquiries and provide accurate and timely responses.
+    </td>
+  </tr> -->
+ </table>
 
 <!-- ![Automated Inventory Management](automated-inventory-management.png)
 
@@ -24,9 +41,6 @@ Here are a few of the projects that we are currently working on:
 
 - **Predictive Maintenance**: Our team is building a predictive maintenance platform that uses AI to identify potential failures in equipment before they occur, reducing downtime and improving efficiency. -->
 
-![Team and Ticket Management System](team-ticket-management.png)
-
-- **Team and Ticket Management System**: We are building a platform that helps teams manage incoming tickets from different services like Zendesk and Jira without leaving anything behind. The system also helps management maintain a hierarchy among employees and ensures that all tickets are completed to a high standard. We have incorporated AI features to distribute tickets to the best person to handle them.
 
 ## Resources
 
